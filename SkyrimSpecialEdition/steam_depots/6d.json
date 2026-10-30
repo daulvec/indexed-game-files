@@ -1,0 +1,29 @@
+[
+  {
+    "Hash": "bTGCQi1fCH8=",
+    "Size": 111735718,
+    "Path": "Data\\ccBGSSSE037-Curios.bsa",
+    "Sha1": "E7B9785D204B62B2B8B1FEA3C5A14C91E7534E77",
+    "App": 489830,
+    "Depot": 489831,
+    "Manifest": 349141704917442044
+  },
+  {
+    "Hash": "bTGCQi1fCH8=",
+    "Size": 111735718,
+    "Path": "Data\\ccBGSSSE037-Curios.bsa",
+    "Sha1": "E7B9785D204B62B2B8B1FEA3C5A14C91E7534E77",
+    "App": 489830,
+    "Depot": 489831,
+    "Manifest": 7089166303853251347
+  },
+  {
+    "Hash": "bWL9LiYirZI=",
+    "Size": 2972608,
+    "Path": "flowchartx64.dll",
+    "Sha1": "03498D4128AEA26CBA8021D22179B67728BBAD33",
+    "App": 1946180,
+    "Depot": 1946183,
+    "Manifest": 1955244794634339242
+  }
+]

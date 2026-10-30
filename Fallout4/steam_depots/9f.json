@@ -1,0 +1,38 @@
+[
+  {
+    "Hash": "n8KxyuRbLR0=",
+    "Size": 2095389,
+    "Path": "Data\\ccBGSFO4004-PipBoy(Camo02) - Textures.ba2",
+    "Sha1": "997AA096B14CAAE43A45BF9028366DC22121BAA0",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5944191827186292545
+  },
+  {
+    "Hash": "n2WNb9PJnMg=",
+    "Size": 42496,
+    "Path": "nvToolsExt64_1.dll",
+    "Sha1": "01068BB9A8A29A86453383968CAEEAE0839FAF35",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5819088023757897745
+  },
+  {
+    "Hash": "n2WNb9PJnMg=",
+    "Size": 42496,
+    "Path": "nvToolsExt64_1.dll",
+    "Sha1": "01068BB9A8A29A86453383968CAEEAE0839FAF35",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 8681102885670959037
+  },
+  {
+    "Hash": "n6hmGLaneRA=",
+    "Size": 1002,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\i18n\\jquery.ui.datepicker-pt-BR.js",
+    "Sha1": "6BBE3AC838B2855D1289075B91A0E28583AA087E",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

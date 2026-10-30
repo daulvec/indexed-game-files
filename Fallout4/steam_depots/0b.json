@@ -1,0 +1,47 @@
+[
+  {
+    "Hash": "CwYyEna7znU=",
+    "Size": 489080015,
+    "Path": "Data\\Fallout4 - Interface.ba2",
+    "Sha1": "EBFEE4004B82BBAB0BAE77764151368F4BF74D49",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5944191827186292545
+  },
+  {
+    "Hash": "C02YyoI9G1U=",
+    "Size": 1963767149,
+    "Path": "Data\\Fallout4 - Textures5.ba2",
+    "Sha1": "D127C0AED4A1F600995D1705AA179061615B304C",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5819088023757897745
+  },
+  {
+    "Hash": "C1BwEdKXYCw=",
+    "Size": 988,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\datepicker\\buttonbar.html",
+    "Sha1": "DBF4B53BA3BD2B75FBF84A64199B6195B8E4D32C",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "C3xmsFjDlZc=",
+    "Size": 389938,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\jquery-ui-1.8.20.custom.js",
+    "Sha1": "25D511A91A7B87A5519050BF418F5171B1F9D188",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "C3xmsFjDlZc=",
+    "Size": 389938,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\jquery-ui-1.8.20.custom.js",
+    "Sha1": "25D511A91A7B87A5519050BF418F5171B1F9D188",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

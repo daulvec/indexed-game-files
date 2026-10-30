@@ -1,0 +1,38 @@
+[
+  {
+    "Hash": "C/gkYlWw68k=",
+    "Size": 813639992,
+    "Path": "Data\\Skyrim - Textures5.bsa",
+    "Sha1": "BE889F8DDF2798F8047C0A6A8D3401934ED8E180",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 4341968404481569190
+  },
+  {
+    "Hash": "C/gkYlWw68k=",
+    "Size": 813639992,
+    "Path": "Data\\Skyrim - Textures5.bsa",
+    "Sha1": "BE889F8DDF2798F8047C0A6A8D3401934ED8E180",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 8042843504692938467
+  },
+  {
+    "Hash": "C1eOmY0OAqc=",
+    "Size": 18857707,
+    "Path": "Data\\Update.esm",
+    "Sha1": "42947416190FC435208F5EA4A1A8615503DF1B1C",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 2756691988703496654
+  },
+  {
+    "Hash": "C7BS5IwpsfA=",
+    "Size": 101216,
+    "Path": "Tools\\Elric\\xg.dll",
+    "Sha1": "FEDAB7B7A375EC1A9C9DF7DFF1C3B6631223E1FF",
+    "App": 1946180,
+    "Depot": 1946183,
+    "Manifest": 1955244794634339242
+  }
+]

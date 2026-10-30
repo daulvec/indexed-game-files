@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "7y9UDeVB50s=",
+    "Size": 105751175,
+    "Path": "Data\\Skyrim - Interface.bsa",
+    "Sha1": "D0D38A12E6CF86C97EA849FC7F34F6FF36401626",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 2756691988703496654
+  },
+  {
+    "Hash": "750xyQs09MU=",
+    "Size": 2338,
+    "Path": "lex\\accent.tlx",
+    "Sha1": "3C7B8BFB0340A138974DC96DD2A42488E908B3DB",
+    "App": 1946180,
+    "Depot": 1946183,
+    "Manifest": 1955244794634339242
+  }
+]

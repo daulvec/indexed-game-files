@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "8LzXRU4x9Sw=",
+    "Size": 1535523399,
+    "Path": "Data\\Skyrim - Sounds.bsa",
+    "Sha1": "E5D1E906AC3C4E06B4A7B1853DDAC346CE7BC893",
+    "App": 489830,
+    "Depot": 489831,
+    "Manifest": 7848722008564294070
+  },
+  {
+    "Hash": "8F+iRiHecKI=",
+    "Size": 125280,
+    "Path": "Papyrus Compiler\\antlr.runtime.dll",
+    "Sha1": "DDAAFCDB94398C3425D777F9B2ABA56C6E0638E8",
+    "App": 1946180,
+    "Depot": 1946183,
+    "Manifest": 1955244794634339242
+  }
+]

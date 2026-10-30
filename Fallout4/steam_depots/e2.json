@@ -1,0 +1,56 @@
+[
+  {
+    "Hash": "4l27Y4ewfeg=",
+    "Size": 14059244,
+    "Path": "Data\\ccBGSFO4018-GaussRiflePrototype - Textures.ba2",
+    "Sha1": "98BC98D5856AC4C24642563BAEA43B7E634CF2BE",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5944191827186292545
+  },
+  {
+    "Hash": "4l27Y4ewfeg=",
+    "Size": 14059244,
+    "Path": "Data\\ccBGSFO4018-GaussRiflePrototype - Textures.ba2",
+    "Sha1": "98BC98D5856AC4C24642563BAEA43B7E634CF2BE",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 8681102885670959037
+  },
+  {
+    "Hash": "4n72TQdb89o=",
+    "Size": 596786,
+    "Path": "Data\\ccSBJFO4003-Grenade.esl",
+    "Sha1": "A52D2449E7C7774B83277561EB03876A264BB274",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5944191827186292545
+  },
+  {
+    "Hash": "4k9Nvo+qiQc=",
+    "Size": 1561,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\themes\\base\\jquery.ui.core.css",
+    "Sha1": "E8FCE4393E174554106FBBAD1034E2D5342A1A6A",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "4k9Nvo+qiQc=",
+    "Size": 1561,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\themes\\dark-hive\\jquery.ui.core.css",
+    "Sha1": "E8FCE4393E174554106FBBAD1034E2D5342A1A6A",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "4m6ZZWaTPyo=",
+    "Size": 7635,
+    "Path": "Tools\\MaterialEditor\\htdocs\\js\\themes\\default\\d.png",
+    "Sha1": "518E75EECE94B37FD517B8376A50BCE7653C2A8D",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

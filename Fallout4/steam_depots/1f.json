@@ -1,0 +1,38 @@
+[
+  {
+    "Hash": "H7rw0InMdbQ=",
+    "Size": 2465,
+    "Path": "Fallout4_Default.ini",
+    "Sha1": "964B16E15D290AE306764EDABD33B87C66D5DAE2",
+    "App": 377160,
+    "Depot": 377164,
+    "Manifest": 2178106366609958945
+  },
+  {
+    "Hash": "H7rw0InMdbQ=",
+    "Size": 2465,
+    "Path": "Fallout4_Default.ini",
+    "Sha1": "964B16E15D290AE306764EDABD33B87C66D5DAE2",
+    "App": 377160,
+    "Depot": 377164,
+    "Manifest": 8492427313392140315
+  },
+  {
+    "Hash": "Hzuap3Gn0Po=",
+    "Size": 717,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\progressbar\\default.html",
+    "Sha1": "8FF68DBD71EA3EB72902FEA284380FA0CDFE82E4",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "H33GHi72Zfk=",
+    "Size": 230,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\1.10.3\\css\\dark-hive\\images\\ui-bg_flat_50_5c5c5c_40x100.png",
+    "Sha1": "0DA01618B29998E920D955677A1522EDBC5523AA",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]
