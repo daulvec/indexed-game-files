@@ -1,0 +1,56 @@
+[
+  {
+    "Hash": "+c4e1xOdlkk=",
+    "Size": 11881,
+    "Path": "Data\\ccBGSFO4096-AS_Enclave - Main.ba2",
+    "Sha1": "2E9DC2B5F71A94F7061B808E566D3DB7A0C8CCEB",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 8681102885670959037
+  },
+  {
+    "Hash": "+ZhbHNdji0g=",
+    "Size": 381902820,
+    "Path": "Data\\Video\\AGILITY.bk2",
+    "Sha1": "2ACCDB601DC4F63BE695F0CB93D11666F6CE0B1D",
+    "App": 377160,
+    "Depot": 377161,
+    "Manifest": 5983086794954940044
+  },
+  {
+    "Hash": "+ZhbHNdji0g=",
+    "Size": 381902820,
+    "Path": "Data\\Video\\AGILITY.bk2",
+    "Sha1": "2ACCDB601DC4F63BE695F0CB93D11666F6CE0B1D",
+    "App": 377160,
+    "Depot": 377161,
+    "Manifest": 7332110922360867314
+  },
+  {
+    "Hash": "+ZhbHNdji0g=",
+    "Size": 381902820,
+    "Path": "Data\\Video\\AGILITY.bk2",
+    "Sha1": "2ACCDB601DC4F63BE695F0CB93D11666F6CE0B1D",
+    "App": 377160,
+    "Depot": 377161,
+    "Manifest": 7497069378349273908
+  },
+  {
+    "Hash": "+bXkbjKrDww=",
+    "Size": 1762,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\external\\jquery.bgiframe-2.1.2.js",
+    "Sha1": "28F1EEABE065781054F6573497351A1F81742D6F",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "+doIBisBibY=",
+    "Size": 1140,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\i18n\\jquery.ui.datepicker-kk.js",
+    "Sha1": "C3DCC062D2A61880AD8AFA333C1EE3B2CC2FCC56",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

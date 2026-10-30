@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "dFLn+q0m2ic=",
+    "Size": 824377007,
+    "Path": "Data\\Skyrim - Textures7.bsa",
+    "Sha1": "D24CD1274A7FE084B8F8870986FAB7672C7E82E5",
+    "App": 489830,
+    "Depot": 489832,
+    "Manifest": 8702665189575304780
+  },
+  {
+    "Hash": "dINL+vRS3z0=",
+    "Size": 141944,
+    "Path": "Tools\\AssetWatcher\\styles\\qwindowsvistastyle.dll",
+    "Sha1": "9A8E0565F9B00CF95991A0D63F2F3B1B7ADA52A2",
+    "App": 1946180,
+    "Depot": 1946183,
+    "Manifest": 1955244794634339242
+  }
+]

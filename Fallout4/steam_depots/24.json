@@ -1,0 +1,83 @@
+[
+  {
+    "Hash": "JGUWEemYgck=",
+    "Size": 88632041,
+    "Path": "Data\\ccBGSFO4038-HorseArmor - Textures.ba2",
+    "Sha1": "91911D4289587B0460B789DCF5C2DBFA995EEE3F",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5944191827186292545
+  },
+  {
+    "Hash": "JEsNseqmNHI=",
+    "Size": 17403965,
+    "Path": "Data\\ccFRSFO4001-HandmadeShotgun - Textures.ba2",
+    "Sha1": "4C566C2123E6E3412A77204A0DB89FC7F6B8CA5E",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 8681102885670959037
+  },
+  {
+    "Hash": "JDcohsdfdsI=",
+    "Size": 292217,
+    "Path": "Data\\ccFSVFO4007-Halloween.esl",
+    "Sha1": "C832A21C225BCA9A12E741D6E750CC046A71D9F3",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5944191827186292545
+  },
+  {
+    "Hash": "JO30VXmk58A=",
+    "Size": 218554028,
+    "Path": "Data\\DLCRobot - Textures.ba2",
+    "Sha1": "7F84F2638A34A0C52B13B09DC738845687651931",
+    "App": 377160,
+    "Depot": 435870,
+    "Manifest": 1213339795579796878
+  },
+  {
+    "Hash": "JAmVxSpgvpk=",
+    "Size": 3337,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\hide\\default.html",
+    "Sha1": "96B277247DFCA2F49DD9ABC2B02DBD2F6ADC48A7",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "JPeiRky+ZRI=",
+    "Size": 1080,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\i18n\\jquery.ui.datepicker-mk.js",
+    "Sha1": "F129ACA23660AF856E47F9152B13C9C0FFE9DF3F",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "JBB9Tdgrk+s=",
+    "Size": 702,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\minified\\jquery.effects.transfer.min.js",
+    "Sha1": "F902733413908AB64571157CF79C17493A9EC0DB",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "JPeiRky+ZRI=",
+    "Size": 1080,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\i18n\\jquery.ui.datepicker-mk.js",
+    "Sha1": "F129ACA23660AF856E47F9152B13C9C0FFE9DF3F",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "JBB9Tdgrk+s=",
+    "Size": 702,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\minified\\jquery.effects.transfer.min.js",
+    "Sha1": "F902733413908AB64571157CF79C17493A9EC0DB",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

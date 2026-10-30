@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "Rq/tAAY/J28=",
+    "Size": 695297,
+    "Path": "Data\\ccOTMFO4001-Remnants.esl",
+    "Sha1": "BBAF7E3FE628C898DB366D2EB72BD091D5F04C12",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5944191827186292545
+  },
+  {
+    "Hash": "RudelVgOEBQ=",
+    "Size": 1550,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\addClass\\default.html",
+    "Sha1": "89C93C70E19D42CCD99D8E9510C19F2954CA716D",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

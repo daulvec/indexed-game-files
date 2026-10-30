@@ -1,0 +1,65 @@
+[
+  {
+    "Hash": "7NdxcGKbdes=",
+    "Size": 13222,
+    "Path": "Data\\ccBGSFO4020-PowerArmorSkin(Black) - Main.ba2",
+    "Sha1": "9F9623585AA801B87B039FE832979264C5294AF9",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 8681102885670959037
+  },
+  {
+    "Hash": "7AQCyTzsXME=",
+    "Size": 1207,
+    "Path": "Low.ini",
+    "Sha1": "3075FA59F1465F309F40D9F4BF8FD4CE0FA8B9FE",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5819088023757897745
+  },
+  {
+    "Hash": "7AQCyTzsXME=",
+    "Size": 1207,
+    "Path": "Low.ini",
+    "Sha1": "3075FA59F1465F309F40D9F4BF8FD4CE0FA8B9FE",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5944191827186292545
+  },
+  {
+    "Hash": "7AQCyTzsXME=",
+    "Size": 1207,
+    "Path": "Low.ini",
+    "Sha1": "3075FA59F1465F309F40D9F4BF8FD4CE0FA8B9FE",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 8681102885670959037
+  },
+  {
+    "Hash": "7HtWxgYDAIA=",
+    "Size": 1336,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\ui\\i18n\\jquery.ui.datepicker-hi.js",
+    "Sha1": "8AA1F256EDB64AB2FFAF2A7899493D754102F9CF",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "7CLuC3MHGoI=",
+    "Size": 11667,
+    "Path": "Tools\\MaterialEditor\\htdocs\\js\\jquery.ui.tabs.min.js",
+    "Sha1": "65DF1E1E4AF46F830F6A4A1BBB6CC6549278BDF8",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "7HtWxgYDAIA=",
+    "Size": 1336,
+    "Path": "Tools\\MaterialEditor\\htdocs\\ui\\i18n\\jquery.ui.datepicker-hi.js",
+    "Sha1": "8AA1F256EDB64AB2FFAF2A7899493D754102F9CF",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

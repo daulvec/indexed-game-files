@@ -1,0 +1,29 @@
+[
+  {
+    "Hash": "TxUe36eG4W0=",
+    "Size": 377448164,
+    "Path": "Data\\ccBGSSSE001-Fish.bsa",
+    "Sha1": "FF9352E2B8CC98D7085AF0F28C16CCAD992B5899",
+    "App": 489830,
+    "Depot": 489831,
+    "Manifest": 349141704917442044
+  },
+  {
+    "Hash": "TxUe36eG4W0=",
+    "Size": 377448164,
+    "Path": "Data\\ccBGSSSE001-Fish.bsa",
+    "Sha1": "FF9352E2B8CC98D7085AF0F28C16CCAD992B5899",
+    "App": 489830,
+    "Depot": 489831,
+    "Manifest": 7089166303853251347
+  },
+  {
+    "Hash": "T2h4YTCZuJ4=",
+    "Size": 25245176,
+    "Path": "Tools\\redist\\VC_redist.x64.exe",
+    "Sha1": "1A18B960482C2A242DF0E891DE9E3A125E439122",
+    "App": 1946180,
+    "Depot": 1946183,
+    "Manifest": 1955244794634339242
+  }
+]

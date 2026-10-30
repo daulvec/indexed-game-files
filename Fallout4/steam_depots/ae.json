@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "roBzLkkqCg4=",
+    "Size": 602176127,
+    "Path": "Data\\Fallout4 - Textures8.ba2",
+    "Sha1": "B3574FA2471A015C5D3E51310D5EAE27AE9B771D",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5819088023757897745
+  },
+  {
+    "Hash": "rg60Zc4TlJ0=",
+    "Size": 847,
+    "Path": "Tools\\MaterialEditor\\htdocs\\css\\images\\ajax-loader.gif",
+    "Sha1": "9D8F230D5E14FF93C7523804FACA71E5F46180D1",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]

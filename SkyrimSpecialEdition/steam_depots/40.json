@@ -1,0 +1,20 @@
+[
+  {
+    "Hash": "QGzMWDLeDrE=",
+    "Size": 2841,
+    "Path": "lex\\User\\userdic.tlx",
+    "Sha1": "ECABB103DAF3E9E851D1451296FE46CB76224E7F",
+    "App": 1946180,
+    "Depot": 1946183,
+    "Manifest": 1955244794634339242
+  },
+  {
+    "Hash": "QM3cfKFlMVo=",
+    "Size": 35403608,
+    "Path": "SkyrimSE.exe",
+    "Sha1": "8A79756D4E5261F679625C43129ADEE9775B553C",
+    "App": 489830,
+    "Depot": 489833,
+    "Manifest": 2414608533287116506
+  }
+]

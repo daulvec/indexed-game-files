@@ -1,0 +1,29 @@
+[
+  {
+    "Hash": "n1a268FnWz0=",
+    "Size": 12775030,
+    "Path": "Data\\ccQDRSSE001-SurvivalMode.bsa",
+    "Sha1": "96B59E7CBD35482DD7D736DA6A5FE458BA5F6AC7",
+    "App": 489830,
+    "Depot": 489831,
+    "Manifest": 1985552842565684891
+  },
+  {
+    "Hash": "n1a268FnWz0=",
+    "Size": 12775030,
+    "Path": "Data\\ccQDRSSE001-SurvivalMode.bsa",
+    "Sha1": "96B59E7CBD35482DD7D736DA6A5FE458BA5F6AC7",
+    "App": 489830,
+    "Depot": 489831,
+    "Manifest": 6913241376784585188
+  },
+  {
+    "Hash": "n88orx5t0wE=",
+    "Size": 758392,
+    "Path": "Tools\\AssetWatcher\\platforms\\qoffscreen.dll",
+    "Sha1": "42F1562345C598B1DD1A5E326619197925124BA3",
+    "App": 1946180,
+    "Depot": 1946183,
+    "Manifest": 1955244794634339242
+  }
+]

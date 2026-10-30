@@ -1,0 +1,56 @@
+[
+  {
+    "Hash": "z6G0Qe+U11c=",
+    "Size": 1399972840,
+    "Path": "Data\\Fallout4 - Textures6.ba2",
+    "Sha1": "5472CCDA66265B71C582B15033AD23D98EE1D794",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5944191827186292545
+  },
+  {
+    "Hash": "z6G0Qe+U11c=",
+    "Size": 1399972840,
+    "Path": "Data\\Fallout4 - Textures6.ba2",
+    "Sha1": "5472CCDA66265B71C582B15033AD23D98EE1D794",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 8681102885670959037
+  },
+  {
+    "Hash": "z0MibPYzG6g=",
+    "Size": 330745373,
+    "Path": "Data\\Fallout4.esm",
+    "Sha1": "CBAB0B31B7EEEF04FED3517971E05B2DC5C5E9CE",
+    "App": 377160,
+    "Depot": 377163,
+    "Manifest": 5819088023757897745
+  },
+  {
+    "Hash": "zzWlO+EXONQ=",
+    "Size": 1221,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\button\\icons.html",
+    "Sha1": "44B33EA6BFE389BBE6E38B27F50AB72D3A7A9941",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "z1w16+OI9QU=",
+    "Size": 333,
+    "Path": "Tools\\MaterialEditor\\htdocs\\development-bundle\\demos\\selectable\\index.html",
+    "Sha1": "36F5E1E241B8E9BFBB85D18C3DBA97E66EB74BB0",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  },
+  {
+    "Hash": "z3HJ+68R4iw=",
+    "Size": 1544,
+    "Path": "Tools\\MaterialEditor\\htdocs\\jquery.bgsdlgeditor.css",
+    "Sha1": "B2970DCE7427E6D7F7BF1ACC90B8BDE275A975EB",
+    "App": 1946160,
+    "Depot": 1946162,
+    "Manifest": 492073522882144120
+  }
+]
